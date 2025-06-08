@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Instrument';
+  src: url("/fonts/InstrumentSemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url("/fonts/PoppinsSemiBold.ttf") format("truetype");
+}
+
+body {
+  font-family: 'Instrument', sans-serif;
+}
